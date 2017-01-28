@@ -1,3 +1,23 @@
 body {
-	background-color: black;
+	background-color: purple;
+	color: white;
+	text-align: center;
+	padding-top: 40%;
+	font-family: fantasy;
+}
+
+
+a {
+	border: 1px solid white;
+	padding: 20px;
+	color: white;
+	text-decoration: none;
+	display: block;
+	width: 100px;
+	margin: 30px auto;
+}
+
+a:hover {
+	background-color: white;
+	color: purple;
 }
